@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hola Arda!</string>
+    <string name="app_name">Tolkien Library</string>
+    <string name="lista_vacia">No hay elementos en la lista.</string>
+</resources>

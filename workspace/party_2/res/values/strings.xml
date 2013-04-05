@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Party_2Activity!</string>
+    <string name="app_name">Party_2</string>
+    <string name="Elige_categoria">Elige Categoria</string>
+    <string name="Compartir_preg_usuario">Compartir pregunta con demás usuarios</string>
+    <string name="Compartir_texto">Compartir lo que vamos a insertar con los demás usuarios</string><string name="titulo_pregunta">¡Inserta nuevas preguntas!</string>
+    <string name="Insertar">Insertar</string>
+    <string name="Salir">Salir</string>
+    
+    <string name="textoExplicativo">texto Explicativo</string>
+    <string-array name="tipo_juego">
+        <item>Mímica</item>
+        <item>Tararear</item>
+        <item>Dibujar</item>
+        <item>Imitar</item>
+        <item>Adivina lo que piensa</item>
+    </string-array>
+    <string name="Descripcion_mimica">El concursante debe de decirle a su compañero la palabra que esta escrita en la pantalla mediante la mimica. No esta permitido hablar ni hacer ruido</string>
+    <string name="Descripcion_Tararear">Aqui la descripcion de Tararear</string>
+    <string name="Descripcion_Dibujar">Aqui la descripcion de Dibujar</string>
+    <string name="Descripcion_Imitar">Aqui la descripcion de Imitar</string>
+    <string name="Descripcion_Adivina">Aqui la descripcion de Adivina lo que piensa.</string>
+    
+
+</resources>
